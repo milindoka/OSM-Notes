@@ -1,0 +1,43 @@
+Why would you use OpenStreetMap if there is Google Maps?
+By Aleks Buczkowski - October 23, 2015
+
+If you’re a GeoGeek, cartographer, developer or you simply need to find a particular place on a map you’ve got two main mapping environments to choose from: Google Maps and OpenStreetMap… and I guess that you might be asking yourself: “Why would I use OpenStreetMap if there is Google Maps?”
+
+WHY WOULD YOU USE OPEN STREET MAP IF THERE IS GOOGLE MAPS?
+
+There is no ultimate answer as to which one is better. These two have as many similarities as differences. They are based on different fundamentals, but they solve the same basic human need to know “WHERE”. The key difference between these two mapping environments is a philosophic “Open” vs. “Closed” approach with how the data is collected and distributed.
+
+GoogeMaps-vs-OSM---Geoawesomeness
+
+OpenStreetMap was born in 2004 in the UK, at a  time when map data sources were controlled by private and governmental players. They were expensive and highly restrictive which made them accessible only by large companies. The idea behind OSM was to solve this problem by using a Wikipedia-like model and create a free, editable map of the world made entirely by the voluntary efforts of online masses. The ease of use and the need for open map data sources was so high that today OSM has over 2.2 million registered users who are hand crafting a detailed map of the entire world.
+
+This crowdsourcing approach has been acknowledged by Google which also turned to users in order to improve its maps. In 2008, the company introduced Google Map Maker, which used a similar approach and interface to the OSM in order to gather local data from people willing to contribute where map data was hard to purchase.
+
+The main difference between these two services is that every edit you make to OSM is owned by you and the community, while every  change you make to Google Maps… will be owned by Google.
+
+The OSM community is what makes the project so special. Thousands of volunteers from all around the globe are updating the map as their world changes around them. Every update is immediately visible to all other users and is version controlled. There are no corporate map cycle releases, approvals and KPIs that are typical to large organizations.
+
+
+
+One could argue that this approach could make OpenStreetMap vulnerable to mapping vandalism but in reality closed source maps are equally vulnerable. On the other hand, the active OSM mapping community is quick to respond to such acts by educating users and converting them into contributors.The power of the OSM community is visible especially when a humanitarian crisis hits somewhere in the world. In 2010, when the island of Haiti suffered from a 7-point magnitude earthquake, the OSM community needed just a couple of hours to map the whole island from satellite imagery, which allowed relief workers to properly coordinate rescue missions and save many lives, while commercial maps had no way of responding in such a short duration. The more recent Nepal Earthquake saw the contributions of over 2,000 volunteers mappers responding to the crisis within 48 hours.
+
+This community is also what ensures the high quality and granularity of OSM maps. Although Google spends quite a lot of time and resources on keeping maps up-to-date, its data quality is not necessarily better than OSM. In many, especially less developed areas, the OSM community has managed to gain even higher data granularity than any other map source
+
+Commercial map data suppliers usually focus on updating map features which are most profitable to sell. Since the OSM community does not have to worry about selling maps, it allows the community to be creative and make maps focused on  hikers, cyclists, physically challenged, sailors and practically any interest group. You can map crops, the number of windows on Empire State Building or even the age of a particular tree. Even when it comes to routing and navigation, OSM doesn’t stay behind. Telenav has started using OpenStreetMap data in their Skobbler navigation app.
+
+OSM routing - Geoaweosmeness
+
+In fact more and more major organizations are choosing OSM for their maps. In February 2012, Foursquare switched to the OpenStreetMap powered Mapbox platform. In March 2013, Wikipedia started using OSM as well. Craigslist uses it for apartment searches  and even Apple has used OSM data in its maps… Other popular platforms using OSM powered maps are Github, Pinterest, Roadtrippers and Strava, to name a few.
+
+There are two main reasons for that. First of all, the flexibility. OSM is ready for any styling you need to apply for your project, no matter if it’s a Sci-Fi visualisation or one of cool predefined Mapbox styles. The second reason is that OpenStreetMap is and always will be available for free to users, developers and companies. It even allows you to download all of the map offline if you need to and render it in your own language
+
+Apart from the maps itself, the OSM project is supported by a range of mature open source software projects that are evolving much faster than any closed sourced competitor. Some notable examples are the mapnik cartographical library, osrm routing engine, nominatim geocoding engine, leaflet js map library, turf geospatial analysis library, apart from the numerous services and experimental tools being offered by mapping platforms like Mapbox and Mapzen.
+
+OPEN STREET MAP IS AND ALWAYS WILL BE AVAILABLE FOR FREE.
+
+Don’t get me wrong, I use Google Maps almost everyday for real-time traffic information and as my main navigation app. It is a great mapping service. No doubt. But although it’s free of charge, there is a certain cost associated with using Google mapping services. The cost of privacy and loss of control over what we see on the map. At the end, Google is an advertising company and it uses our geographic search results and location information for marketing purposes. It also chooses which data are relevant to you rather than displaying on the map what is actually around you.
+
+I’m not saying that OpenStreetMap is perfect. No map is. But when you consider all pros and cons, maybe Google Maps is not the best solution for all use cases. There are many applications where the map should be treated as an important public good, rather than a commodity controlled by large organizations. At the end, why would you rely on a global corporation to tell you what is the name of a street in your own neighborhood?
+
+So don’t be afraid and try it out;)
+
